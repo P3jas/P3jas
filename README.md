@@ -1,5 +1,8 @@
 <img width="1200" height="400" alt="Illustration" src="https://github.com/user-attachments/assets/43b954fd-af2c-456d-8b31-d338e143ca89" />
-## Hi there 👋
+
+## Hi 👋, I'am Kacper Koźliński
+
+### About me
 
 <!--
 **P3jas/P3jas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
