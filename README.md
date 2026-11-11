@@ -3,63 +3,40 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/P3jas"><img src="https://img.shields.io/badge/github-P3jas-0a0a0a?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a" alt="github"></a>
-  <a href="https://x.com/Dardewilll"><img src="https://img.shields.io/badge/x-@Dardewilll-0a0a0a?style=flat-square&logo=x&logoColor=white&labelColor=0a0a0a" alt="x"></a>
-  <img src="https://komarev.com/ghpvc/?username=P3jas&style=flat-square&color=0a0a0a&label=visitors" alt="visitors">
+  <a href="https://github.com/P3jas"><img src="./assets/link-gh.svg" alt="github P3jas" height="36"></a>&nbsp;
+  <a href="https://x.com/Dardewilll"><img src="./assets/link-x.svg" alt="x @Dardewilll" height="36"></a>&nbsp;
+  <a href="https://instagram.com/pejas_rysuje"><img src="./assets/link-ig.svg" alt="instagram @pejas_rysuje" height="36"></a>
 </p>
 
----
+<br>
 
-```console
-pejas@github:~$ cat about.txt
-```
+<img src="./assets/h-about.svg" alt="01 about" width="100%">
+<img src="./assets/about.svg" alt="about" width="100%">
 
-```yaml
-name:      pejas
-role:      developer            # ← np. "frontend dev", "student informatyki"
-focus:     [ "...", "..." ]     # ← czym się teraz zajmujesz
-learning:  [ "..." ]            # ← czego się uczysz
-status:    building things in the dark.
-```
+<br><br>
 
-```console
-pejas@github:~$ ls ./stack
-```
+<img src="./assets/h-stack.svg" alt="02 stack" width="100%">
+<img src="./assets/stack.svg" alt="stack" width="100%">
+
+<br><br>
+
+<img src="./assets/h-projects.svg" alt="03 projects" width="100%">
 
 <p>
-  <!-- podmień / dopisz technologie — format: badge/-NAZWA-0a0a0a?...&logo=NAZWA_Z_simpleicons.org -->
-  <img src="https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white" alt="javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/-Linux-0a0a0a?style=flat-square&logo=linux&logoColor=white" alt="linux">
-  <img src="https://img.shields.io/badge/-Git-0a0a0a?style=flat-square&logo=git&logoColor=white" alt="git">
-  <img src="https://img.shields.io/badge/-Neovim-0a0a0a?style=flat-square&logo=neovim&logoColor=white" alt="neovim">
+  <a href="https://github.com/P3jas/projekt-1"><img src="./assets/project-1.svg" alt="projekt-1" width="49%"></a>
+  <a href="https://github.com/P3jas/projekt-2"><img src="./assets/project-2.svg" alt="projekt-2" width="49%"></a>
+  <a href="https://github.com/P3jas/projekt-3"><img src="./assets/project-3.svg" alt="projekt-3" width="49%"></a>
+  <a href="https://github.com/P3jas/projekt-4"><img src="./assets/project-4.svg" alt="projekt-4" width="49%"></a>
 </p>
 
-```console
-pejas@github:~$ ls ./projects --pinned
-```
+<br>
 
-| repo | opis |
-| :--- | :--- |
-| [`projekt-1`](https://github.com/P3jas/projekt-1) | krótki opis — co robi, w czym napisane |
-| [`projekt-2`](https://github.com/P3jas/projekt-2) | krótki opis — co robi, w czym napisane |
-| [`projekt-3`](https://github.com/P3jas/projekt-3) | krótki opis — co robi, w czym napisane |
-
-```console
-pejas@github:~$ ./stats --mono
-```
+<img src="./assets/h-stats.svg" alt="04 signal" width="100%">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=P3jas&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=a8a8a8&icon_color=ffffff&ring_color=ffffff&hide_rank=false&custom_title=stats" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3jas&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=a8a8a8&custom_title=langs" alt="top langs">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=P3jas&bg_color=0a0a0a&color=6e6e6e&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true&radius=10" alt="activity">
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=P3jas&bg_color=0a0a0a&color=a8a8a8&line=ffffff&point=ffffff&area=true&area_color=3a3a3a&hide_border=true&custom_title=activity" alt="activity graph">
-</p>
+<br>
 
-```console
-pejas@github:~$ exit
-logout — nothing escapes. ▍
-```
+<img src="./assets/footer.svg" alt="EOF" width="100%">
