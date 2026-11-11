@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="EOF">
-<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}.inv{fill:#0a0a0a;font-weight:700;font-size:12px;letter-spacing:2px}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<style>text,.m{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}.inv{fill:#0a0a0a;font-weight:700;font-size:12px;letter-spacing:2px}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
 <rect x=".5" y=".5" width="999" height="149" rx="10" fill="#0a0a0a" stroke="#2a2a2a"/>
 <circle cx="437.5" cy="107.5" r="0.55" fill="#fff" opacity="0.05"/>
 <circle cx="442.5" cy="107.5" r="0.55" fill="#fff" opacity="0.06"/>
@@ -696,5 +696,7 @@
 <circle cx="812.5" cy="142.5" r="0.59" fill="#fff" opacity="0.09"/>
 <circle cx="817.5" cy="142.5" r="0.56" fill="#fff" opacity="0.06"/>
 <text x="500" y="58" class="h" letter-spacing="8" text-anchor="middle" xml:space="preserve" style="font-size:14px">EOF</text>
-<text x="500" y="82" class="d" text-anchor="middle" xml:space="preserve" style="font-size:12px">thanks for falling in <tspan class="c" fill="#fff">█</tspan></text>
+<clipPath id="tf"><rect x="424.4" y="70" height="18.0" width="0"><animate attributeName="width" dur="6.38s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1073;0.1206;0.1339;0.1472;0.1605;0.1738;0.1872;0.2005;0.2138;0.2271;0.2404;0.2537;0.2670;0.2803;0.2937;0.3070;0.3203;0.3336;0.3469;0.3602;0.3735" values="0.00;7.20;14.40;21.60;28.80;36.00;43.20;50.40;57.60;64.80;72.00;79.20;86.40;93.60;100.80;108.00;115.20;122.40;129.60;136.80;144.00;151.20"/></rect></clipPath>
+<text x="424.4" y="82" class="m" font-size="12" fill="#6a6a6a" textLength="151.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#tf)">thanks for falling in</text>
+<rect y="72.2" width="6.5" height="12.0" fill="#fff" x="425.4"><animate attributeName="x" dur="6.38s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1073;0.1206;0.1339;0.1472;0.1605;0.1738;0.1872;0.2005;0.2138;0.2271;0.2404;0.2537;0.2670;0.2803;0.2937;0.3070;0.3203;0.3336;0.3469;0.3602;0.3735" values="425.40;432.60;439.80;447.00;454.20;461.40;468.60;475.80;483.00;490.20;497.40;504.60;511.80;519.00;526.20;533.40;540.60;547.80;555.00;562.20;569.40;576.60"/><animate attributeName="opacity" dur="1.1s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.5"/></rect>
 </svg>

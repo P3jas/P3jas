@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="pejas(1)">
-<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}.inv{fill:#0a0a0a;font-weight:700;font-size:12px;letter-spacing:2px}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<style>text,.m{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}.inv{fill:#0a0a0a;font-weight:700;font-size:12px;letter-spacing:2px}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
 <rect x=".5" y=".5" width="999" height="359" rx="10" fill="#0a0a0a" stroke="#2a2a2a"/>
 <text x="28" y="36" class="d" text-anchor="start" xml:space="preserve" style="font-size:12px">PEJAS(1)</text>
 <text x="500" y="36" class="d" text-anchor="middle" xml:space="preserve" style="font-size:12px">General Commands Manual</text>
@@ -506,6 +506,6 @@
 <text x="500" y="290" class="" text-anchor="start" xml:space="preserve">@pejas_rysuje</text>
 <line x1="0" y1="318" x2="1000" y2="318" stroke="#1e1e1e"/>
 <text x="28" y="344" class="d" text-anchor="start" xml:space="preserve" style="font-size:12px">since 2025</text>
-<text x="500" y="344" class="d" text-anchor="middle" xml:space="preserve" style="font-size:12px">~/p3jas <tspan class="c" fill="#fff">█</tspan></text>
+<text x="500" y="344" class="d" text-anchor="middle" xml:space="preserve" style="font-size:12px">~/p3jas</text>
 <text x="972" y="344" class="d" text-anchor="end" xml:space="preserve" style="font-size:12px">nothing escapes</text>
 </svg>
