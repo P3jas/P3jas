@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="78" viewBox="0 0 492 78" role="img" aria-label="project projekt-3">
+<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}.inv{fill:#0a0a0a;font-weight:700;font-size:12px;letter-spacing:2px}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<rect x=".5" y=".5" width="491" height="77" rx="10" fill="#0a0a0a" stroke="#2a2a2a"/>
+<rect x="16" y="20" width="38" height="38" fill="#fff"/>
+<text x="35" y="45" class="inv" text-anchor="middle" xml:space="preserve" style="font-size:14px">03</text>
+<text x="72" y="36" class="h" text-anchor="start" xml:space="preserve" style="font-size:16px">projekt-3</text>
+<text x="72" y="59" class="d" text-anchor="start" xml:space="preserve" style="font-size:13px">krótki opis projektu</text>
+<text x="470" y="36" class="d" text-anchor="end" xml:space="preserve" style="font-size:16px">↗</text>
+<text x="470" y="59" class="" text-anchor="end" xml:space="preserve" style="font-size:12px">typescript</text>
+</svg>
