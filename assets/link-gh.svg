@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="36" viewBox="0 0 105 36" role="img" aria-label="gh P3jas"><style>
+.m{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.25}}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.scan{animation:scan 6s linear infinite}
+@keyframes scan{0%{transform:translateX(-30%)}100%{transform:translateX(130%)}}
+@media (prefers-reduced-motion:reduce){.pulse,.cur,.scan{animation:none}}
+</style><rect x="0.5" y="0.5" width="104.0" height="35" rx="18" fill="#0a0a0a" stroke="#333"/>
+<circle cx="18" cy="18" r="3.5" fill="#ffffff" class="pulse"/>
+<text x="30" y="22.5" class="m" font-size="11" fill="#4a4a4a" font-weight="400" text-anchor="start" xml:space="preserve" letter-spacing="1">gh</text>
+<text x="54" y="22.5" class="m" font-size="12.5" fill="#ffffff" font-weight="400" text-anchor="start" xml:space="preserve" >P3jas</text></svg>
