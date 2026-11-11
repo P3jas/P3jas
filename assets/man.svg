@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="312" viewBox="0 0 1000 312" role="img" aria-label="pejas(1) manual page">
+<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:13px;fill:#9a9a9a}.h{fill:#fff;font-weight:700;letter-spacing:1px}.w{fill:#e6e6e6}.d{fill:#4a4a4a}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<rect x=".5" y=".5" width="999" height="311" rx="10" fill="#0a0a0a" stroke="#262626"/>
+<text x="24" y="34" class="w" text-anchor="start" xml:space="preserve">PEJAS(1)</text>
+<text x="500.0" y="34" class="d" text-anchor="middle" xml:space="preserve">General Commands Manual</text>
+<text x="976" y="34" class="w" text-anchor="end" xml:space="preserve">PEJAS(1)</text>
+<text x="40" y="74" class="h" text-anchor="start" xml:space="preserve">NAME</text>
+<text x="68" y="96" class="w" text-anchor="start" xml:space="preserve"><tspan class="h">pejas</tspan> — developer &amp; artist</text>
+<text x="40" y="130" class="h" text-anchor="start" xml:space="preserve">SYNOPSIS</text>
+<text x="68" y="152" class="w" text-anchor="start" xml:space="preserve"><tspan class="h">pejas</tspan> <tspan class="d">[</tspan><tspan class="w" text-decoration="underline">--code</tspan><tspan class="d">]</tspan> <tspan class="d">[</tspan><tspan class="w" text-decoration="underline">--draw</tspan><tspan class="d">]</tspan> <tspan class="d">[</tspan><tspan class="w" text-decoration="underline">--learn</tspan><tspan class="d">]</tspan> <tspan class="w" text-decoration="underline">&lt;idea&gt;</tspan></text>
+<text x="40" y="186" class="h" text-anchor="start" xml:space="preserve">DESCRIPTION</text>
+<text x="68" y="208" class="" text-anchor="start" xml:space="preserve">Builds small things for the web and the terminal.</text>
+<text x="68" y="228" class="" text-anchor="start" xml:space="preserve">Draws when the code doesn't compile.</text>
+<text x="68" y="248" class="" text-anchor="start" xml:space="preserve">Prefers dark rooms, monospace and black holes.</text>
+<text x="560" y="74" class="h" text-anchor="start" xml:space="preserve">STACK</text>
+<text x="588" y="96" class="w" text-anchor="start" xml:space="preserve">python <tspan class="d">·</tspan> javascript <tspan class="d">·</tspan> typescript</text>
+<text x="588" y="116" class="w" text-anchor="start" xml:space="preserve">html/css <tspan class="d">·</tspan> react <tspan class="d">·</tspan> node.js</text>
+<text x="588" y="136" class="w" text-anchor="start" xml:space="preserve">git <tspan class="d">·</tspan> linux</text>
+<text x="560" y="170" class="h" text-anchor="start" xml:space="preserve">NOW</text>
+<text x="588" y="192" class="w" text-anchor="start" xml:space="preserve"><tspan class="d">→</tspan> working on: something new</text>
+<text x="588" y="212" class="w" text-anchor="start" xml:space="preserve"><tspan class="d">→</tspan> learning:   one thing at a time</text>
+<line x1="24" y1="266" x2="976" y2="266" stroke="#1e1e1e"/>
+<text x="24" y="292" class="d" text-anchor="start" xml:space="preserve">since 2025</text>
+<text x="500.0" y="292" class="d" text-anchor="middle" xml:space="preserve">~/p3jas <tspan class="c" fill="#fff">▍</tspan></text>
+<text x="976" y="292" class="d" text-anchor="end" xml:space="preserve">PEJAS(1)</text>
+</svg>
