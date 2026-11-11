@@ -5,9 +5,10 @@ OUT = "/home/claude/profile/assets"; os.makedirs(OUT, exist_ok=True)
 # ─────────────── content ───────────────
 NAME     = "developer & artist"
 SYNOPSIS = ["--code", "--draw", "--learn"]
-DESC     = ["Builds small things for the web",
-            "and the terminal. Draws when the",
-            "code doesn't compile."]
+DESC     = ["Hi, I'm Kacper, a full-stack developer.",
+            "I mix solid architecture and databases",
+            "with 2D/3D design. A software engineer",
+            "who also happens to be a digital artist."]
 STACK    = ["python", "javascript", "typescript", "html/css", "react", "node.js", "git", "linux"]
 NOW      = [("building", "something new"), ("learning", "one thing at a time"), ("drawing", "@pejas_rysuje")]
 PROJECTS = [("projekt-1", "krótki opis projektu", "python"),

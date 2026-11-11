@@ -114,7 +114,7 @@
 <text x="14" y="333.6" textLength="584.6" lengthAdjust="spacing" xml:space="preserve" class="m a"><tspan fill="#3a3a3a">                                      ..                                       </tspan></text>
 </g>
 <text x="640" y="118" class="m" font-size="13" fill="#6a6a6a" font-weight="400" letter-spacing="0">$ whoami</text>
-<text x="640" y="150" class="m" font-size="34" fill="#ffffff" font-weight="700" letter-spacing="2">pejas</text>
+<text x="640" y="150" class="m" font-size="34" fill="#ffffff" font-weight="700" letter-spacing="2">Pejas</text>
 <text x="640" y="184" class="m" font-size="13" fill="#6a6a6a" font-weight="400" letter-spacing="0">$ cat ./status</text>
 <text x="640" y="206" class="m" font-size="13" fill="#bdbdbd" font-weight="400" letter-spacing="0">building things in the dark.</text>
 <text x="640" y="228" class="m" font-size="13" fill="#6a6a6a" font-weight="400" letter-spacing="0">$ uptime</text>
