@@ -15,10 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/P3jas/projekt-1"><img src="./assets/p1.svg" alt="projekt-1" width="49%"></a>
-  <a href="https://github.com/P3jas/projekt-2"><img src="./assets/p2.svg" alt="projekt-2" width="49%"></a>
-  <a href="https://github.com/P3jas/projekt-3"><img src="./assets/p3.svg" alt="projekt-3" width="49%"></a>
-  <a href="https://github.com/P3jas/projekt-4"><img src="./assets/p4.svg" alt="projekt-4" width="49%"></a>
+  <a href="https://github.com/P3jas/starly-store"><img src="./assets/starly.svg" alt="starly-store — Next.js, TypeScript, PostgreSQL, Prisma, GSAP" width="100%"></a>
 </p>
 
 <p align="center">

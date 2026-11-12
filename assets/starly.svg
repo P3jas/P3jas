@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" role="img" aria-label="project starly-store">
+<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}.inv{fill:#0a0a0a;font-weight:700;letter-spacing:2px}</style>
+<rect x=".5" y=".5" width="999" height="111" rx="10" fill="#0a0a0a" stroke="#2a2a2a"/>
+<rect x="20" y="24" width="64" height="64" fill="#fff"/>
+<text x="52" y="64" class="inv" text-anchor="middle" style="font-size:22px">01</text>
+<text x="108" y="44" class="h" style="font-size:20px">starly-store</text>
+<text x="268" y="43" class="d" style="font-size:12px;letter-spacing:1px">repo://web-shop</text>
+<text x="108" y="68" class="d" style="font-size:13.5px">Dark, editorial fashion store: film grain, scroll parallax, cart and orders in PostgreSQL.</text>
+<text x="976" y="44" class="d" text-anchor="end" style="font-size:20px">↗</text>
+<rect x="108.0" y="80" width="71.8" height="20" rx="10" fill="none" stroke="#3a3a3a"/>
+<text x="143.9" y="94" text-anchor="middle" style="font-size:11px;fill:#bdbdbd">next.js</text>
+<rect x="187.8" y="80" width="94.0" height="20" rx="10" fill="none" stroke="#3a3a3a"/>
+<text x="234.8" y="94" text-anchor="middle" style="font-size:11px;fill:#bdbdbd">typescript</text>
+<rect x="289.8" y="80" width="94.0" height="20" rx="10" fill="none" stroke="#3a3a3a"/>
+<text x="336.8" y="94" text-anchor="middle" style="font-size:11px;fill:#bdbdbd">postgresql</text>
+<rect x="391.8" y="80" width="64.4" height="20" rx="10" fill="none" stroke="#3a3a3a"/>
+<text x="424.0" y="94" text-anchor="middle" style="font-size:11px;fill:#bdbdbd">prisma</text>
+<rect x="464.2" y="80" width="49.6" height="20" rx="10" fill="none" stroke="#3a3a3a"/>
+<text x="489.0" y="94" text-anchor="middle" style="font-size:11px;fill:#bdbdbd">gsap</text>
+</svg>
