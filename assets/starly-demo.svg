@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="48" viewBox="0 0 1000 48" role="img" aria-label="starly-store live demo">
+<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#d4d4d4}.h{fill:#fff;font-weight:700}.d{fill:#6a6a6a}</style>
+<rect x=".5" y=".5" width="999" height="47" rx="10" fill="#0a0a0a" stroke="#2a2a2a"/>
+<rect x="8" y="8" width="32" height="32" rx="3" fill="#fff"/>
+<path d="M20 16.5 L30 24 L20 31.5 Z" fill="#0a0a0a"/>
+<text x="56" y="29" class="h">demo</text>
+<text x="108" y="29" class="d" style="font-size:12px;letter-spacing:1px">https://starly-store.vercel.app</text>
+<text x="976" y="30" class="d" text-anchor="end" style="font-size:20px">↗</text>
+</svg>

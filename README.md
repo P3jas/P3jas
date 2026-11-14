@@ -15,12 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://starly-store.vercel.app/"><img src="./assets/starly.svg" alt="starly-store — Next.js, TypeScript, PostgreSQL, Prisma, GSAP" width="100%"></a>
-</p>
-
-<p align="center">
-  <a href="https://starly-store.vercel.app/"><img src="./assets/l-demo.svg" alt="starly-store live demo" height="44"></a>&nbsp;
-  <a href="https://github.com/P3jas/starly-store"><img src="./assets/l-repo.svg" alt="starly-store source code on GitHub" height="44"></a>
+  <a href="https://github.com/P3jas/starly-store"><img src="./assets/starly.svg" alt="starly-store — Next.js, TypeScript, PostgreSQL, Prisma, GSAP" width="100%"></a>
+  <br>
+  <a href="https://starly-store.vercel.app/"><img src="./assets/starly-demo.svg" alt="starly-store live demo" width="100%"></a>
 </p>
 
 <p align="center">
