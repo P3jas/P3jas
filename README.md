@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="stack — python, javascript, typescript, java, php, html/css, react, next.js, tailwind, vite, three.js, gsap, node.js, express, laravel, flask, prisma, drizzle, zod, postgresql, mysql, supabase, numpy, scikit-learn, keras, docker, github actions, nginx, vitest, git, linux" width="100%">
+  <img src="./assets/stack.svg" alt="stack — python, javascript, typescript, java, php, html/css, react, next.js, tailwind, vite, three.js, gsap, node.js, express, laravel, flask, prisma, drizzle, zod, postgresql, mysql, supabase, numpy, scikit-learn, keras, docker, github actions, nginx, trivy, ghcr, vitest, git, linux" width="100%">
 </p>
 
 <p align="center">
